@@ -11,7 +11,7 @@ h5,
 h6,
 p {
     line-height: 1.4;
-    font-family: Hind, sans-serif
+    font-family: 'DFPYuanW7', Hind, sans-serif
 }
 
 .btn-theme.active.focus,
@@ -890,10 +890,10 @@ fieldset[disabled] .btn-theme {
     background: #999caa !important
 }
 
-.bg-color-sky-light {
+/* .bg-color-sky-light {
     background: #815050 !important
     /* background: #fafafa  */
-}
+} */
 
 .row-space-2 {
     margin-right: -2px;
